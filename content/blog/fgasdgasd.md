@@ -1,7 +1,31 @@
 ---
-path: ./blog/restsadfgasdfg
-date: 2021-05-04T18:11:40.108Z
-title: fgasdgasd
-description: fasdfasdf
+path: ./blog/XD64
+date: 2021-05-01T18:11:40.108Z
+title: XD64 PCB Review
+description: A review of the XD64 PCB.
 ---
-gasdgasdg
+### ***In this review I will be taking a look at the XD64 V3.0 PCB from KPrepublic. If you are interested in purchasing any of the products mentioned in this review, they will be listed at the bottom of the post.***
+
+Heya!
+
+The XD60 is a great budget option if you are in the market for a simple 60% PCB. The PCB makes use of a USB Type-C port which is nice to see from a board at this price point and is a big step up from the Micro USB seen in the previous versions of the board. The XD60 is south facing and has support for both 5pin and 3pin switches. It is not a hot-swappable PCB so it requires a soldering iron which might be overwhelming for beginners. It is compatible with most standard GH60 compatible cases and has support for many layouts including many bottom row, split space bar configurations.
+
+<!--StartFragment-->
+
+![xd64 3.0](https://ae01.alicdn.com/kf/HTB1_QRwXh2rK1RkSnhJq6ykdpXa0.jpg)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+![IMG_3904](https://ae01.alicdn.com/kf/HTB1cQ59XpzqK1RjSZSgq6ApAVXat.jpg)
+
+<!--EndFragment-->
+
+The software is one of the only real shortcomings of this board. Flashing the PCB was a bit of a pain and will be challenging for beginners but I recommend following [this guide](https://docs.google.com/document/d/1eYIEEGY3Mp4DVBfXUtL9a5NunC1RSXJD). The provided software used for flashing was very buggy at times and required multiple attempts to successfully flash the board. The lack of QMK support is disappointing.
+
+At the end of the day, if you can overlook the lack of QMK support and are looking for a good value PCB with great layout customisability this this a great option coming in at just $30.
+
+[Purchase Link](https://www.aliexpress.com/item/32919981329.html?spm=a2g0s.9042311.0.0.60f04c4d900YrR) (Not Affiliate)
+
+[](https://www.aliexpress.com/item/32919981329.html?spm=a2g0s.9042311.0.0.60f04c4d900YrR)
