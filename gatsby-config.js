@@ -4,7 +4,7 @@ module.exports = {
     title: `Enmatt's Keyboard Reviews`,
     author: `Enmatt`,
     description: `A Keyboard Review blog with all of the latest news and updates on new and upcoming boards.`,
-    siteUrl: `https://Enmatt.xyz`,
+    siteUrl: `https://enmatt.xyz`,
     social: {
       twitter: `EnmattDev`,
     },
