@@ -13,7 +13,7 @@ class IndexPage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`blog`, `enmatt`, `keyboard`, `keyboards`, `mechanical keyboards`]}
         />
 
         <h1>
@@ -22,11 +22,10 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>I'm Enmatt and this is my keyboard review blog!</p>
+        <p>I'm Enmatt and this is my keyboard review blog.</p>
         <p>
-          I aim to give entertaining honest reviews about all things keyboards.
+          I am a mechanical keyboard enthusiast from the UK and I like to write about my keyboard related projects. If you would like to contact me about any possible partnerships, or just to say hi, <a href="https://twitter.com/EnmattDev">follow me on twitter.</a>
         </p>
-        <p>Hope you enjoy!</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
