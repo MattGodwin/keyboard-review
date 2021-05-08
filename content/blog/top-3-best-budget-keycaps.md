@@ -1,8 +1,8 @@
 ---
-path: ./blog/Top-3-Best-Budget-Keycaps
+path: ./blog/Top-3-Best-Budget-Keycap-Sets
 date: 2021-05-08T12:26:11.854Z
-title: Top 3 Best Budget Keycaps
-description: My top 5 list of budget keycaps.
+title: Top 3 Best Budget Keycap Sets
+description: My top 3 list of budget keycap sets.
 ---
 Heya, 
 
