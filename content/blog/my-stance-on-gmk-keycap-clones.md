@@ -1,7 +1,7 @@
 ---
 path: ./blog/GMK-Clones
 date: 2021-05-07T18:25:01.199Z
-title: My stance on GMK keycap clones.
+title: My stance on GMK keycap clones
 description: What I think about GMK keycap clones.
 ---
 Heya,
