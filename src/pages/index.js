@@ -17,14 +17,14 @@ class IndexPage extends React.Component {
         />
 
         <h1>
-          Hey people{" "}
+          Heya,{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>I'm Enmatt and this is my keyboard review blog.</p>
+        <p>Welcome to enmatt.xyz; a keyboard review blog based in the UK</p>
         <p>
-          I am a mechanical keyboard enthusiast from the UK and I like to write about my keyboard related projects. If you would like to contact me about any possible partnerships, or just to say hi, <a href="https://twitter.com/EnmattDev">follow me on twitter.</a>
+           We specialise in budget customised mechanical keyboards although, we do occasionally cover more unique and rare boards. We aim to give honest and non-biased reviews whilst being entertaining along the way. If you love keyboards as much as we do, this is the place for you.
         </p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
