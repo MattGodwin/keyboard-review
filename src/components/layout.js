@@ -68,6 +68,9 @@ class Layout extends React.Component {
         </div>
         <Footer>
           © {new Date().getFullYear()} Enmatt
+          <p>
+            <a href="mailto:enmatt@techie.com">Contact Us</a>
+          </p>
         </Footer>
       </Wrapper>
     )
