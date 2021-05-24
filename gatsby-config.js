@@ -118,9 +118,8 @@ module.exports = {
         short_name: `Enmatt's Keyboard Reviews`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#E3B614`,
         display: `minimal-ui`,
-        // edit below
         icon: `content/assets/enmatt-icon.png`,
       },
     },
